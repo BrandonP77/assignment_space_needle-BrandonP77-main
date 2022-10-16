@@ -4,6 +4,7 @@ public class AssignedAsciiArt {
             System.out.println("         ||");
         }
         for(int j = 1; j <= 3; j++){
+            // come back to this loop when you get back
             for(int k = 3; k <= j; k++){
                 System.out.print("   ");
             }
