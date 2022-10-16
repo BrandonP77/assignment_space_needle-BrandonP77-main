@@ -7,5 +7,10 @@ public class FreeFormAsciiArt {
             }
             System.out.println("");
         }
+        System.out.println("__________________________");
+        System.out.println("\\________________________/");
+        System.out.println("\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/");
+        System.out.println("     Sailboat On The Water");
+        System.out.println("/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/");
     }
 }
