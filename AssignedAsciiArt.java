@@ -1,3 +1,18 @@
 public class AssignedAsciiArt {
-    
+    public static void main(String[] args){
+        for(int i = 1; i <= 3; i++){
+            System.out.println("         ||");
+        }
+        for(int j = 1; j <= 3; j++){
+            for(int k = 3; k <= j; k++){
+                System.out.print("   ");
+            }
+            System.out.print("__/");
+            for(int l = 1; l <= j; l++){
+                System.out.print(":::");
+            }
+            System.out.print("||");
+            System.out.println();
+        }
+    }
 }
