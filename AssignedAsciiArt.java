@@ -1,4 +1,5 @@
 public class AssignedAsciiArt {
+    //
     public static void main(String[] args){
        // Space needle antnenna
         for(int i = 1; i <= 3; i++){
