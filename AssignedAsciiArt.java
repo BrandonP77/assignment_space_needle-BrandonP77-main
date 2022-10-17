@@ -1,5 +1,9 @@
 public class AssignedAsciiArt {
-    //
+    /* Brandon Philipp
+     * BIT 142
+     * Fall Quarter 2022
+     * A1.0
+     */
     public static void main(String[] args){
        // Space needle antnenna
         for(int i = 1; i <= 3; i++){
